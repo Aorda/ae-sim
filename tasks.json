@@ -1,0 +1,13 @@
+[
+  {
+		"ID": 1,
+		"Title": "",
+		"Description": "",
+		"Icon": 0,
+		"Type": "AmountPurchases",
+		"Data": [10],
+		"Reward": 1000,
+    "Currency": "Gems",
+		"End": 0
+	}
+]
