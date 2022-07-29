@@ -1,5 +1,5 @@
 [
-  {
+	{
 		"ID": 1,
 		"Title": "",
 		"Description": "",
@@ -7,7 +7,7 @@
 		"Type": "AmountPurchases",
 		"Data": [10],
 		"Reward": 1000,
-    "Currency": "Gems",
+    		"Currency": "Gems",
 		"End": 0
 	}
 ]
