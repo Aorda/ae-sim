@@ -1,3 +1,3 @@
 {
-  lolwat: {Type: "wins"; Amount: 10; UseAmount: 0; LastDate: 0}
+  lolwat: {Type: "wins"; Amount: 10; UseAmount: 0; LastDate: 0;}
 }
